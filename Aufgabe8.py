@@ -2,7 +2,7 @@
 aufgabe8.py
 ============
 
-Aufgabe 8: Test des SOLVERS am Polynom.
+Aufgabe 8: Test des SOLVERS am Polynom
 
         P4(x) = 2x + x**2 + 3x**3 - x**4
 

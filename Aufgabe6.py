@@ -1,6 +1,5 @@
 def solver2():
 
-
     """
     aufgabe6.py
     ===========

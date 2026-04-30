@@ -1,5 +1,6 @@
 def plotter():
 
+    
     """
     aufgabe7.py
     ===========

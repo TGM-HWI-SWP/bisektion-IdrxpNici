@@ -1,5 +1,4 @@
 def solver():
-
     """
     aufgabe5.py
     ===========
@@ -55,11 +54,9 @@ def solver():
         test_sqrt_with_bisection(n=25,  a=0, b=10)
         test_sqrt_with_bisection(n=81,  a=0, b=20)
         test_sqrt_with_bisection(n=144, a=0, b=20)
- 
- 
+    
+    
     if __name__ == "__main__":
-     main()
-
+        main()
 if __name__ == "__main__":
     solver()
-
